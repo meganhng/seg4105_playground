@@ -8,12 +8,14 @@ SEG4105 Lab 2 dinner party activity
 
 Megan Hong 300012546
 
+---
+
 ## Lab Activity
 
 ### TO DO List
 
-![Alt text](lab02\img\dinnerPlans.jpg)
+![Alt text](img/todo.jpg "To Do")
 
 ### Dinner plans
 
-![Alt text](lab02\img\todo.jpg)
+![Alt text](img/dinnerPlans.jpg "Dinner Plans")
