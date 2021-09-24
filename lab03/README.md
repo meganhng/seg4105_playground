@@ -35,11 +35,11 @@ I enjoy the idea of taking time out of planning to specifically look into what t
 
 Personally I’m not a big fan of having 6 week working periods over sprints. I personally really enjoy the idea of working for a short period of time, and getting a break to reflect. It helps segment the development process and give you some checkpoints to really talk about your opinion on the flow of development. Also, I think that working in 6 week chunks sounds very long and daunting, while 2 week sprints seem less intimidating and tiring.
 
-Although I understand that the idea of working in 6 weeks is to prevent unnecessary meetings, I feel like some of the management meetings seem in a normal scrum flow is necessary in ensuring the team still understands the goal and vision.
+Although I understand that the idea of working in 6 weeks is to prevent unnecessary meetings, I feel like some of the management meetings seen in a normal scrum flow is necessary in ensuring the team still understands the goal and vision.
 
 **2. Hard Time Deadlines**
 
-Although I do enjoy the idea of setting time boxes on tasks, I do believe that it would be beneficial if these time estimates were also flexible (ei. could be extended if needed, rather than just stopping development). I think that having fixed deadlines aren't necessary the best, because sometimes our estimates could be wrong where even with proper risk assessment and exploring all rabbit holes, there may be some difficulties/ surprises that come up causing development to be slightly delayed. I think if the time estimate was flexible it woul dbe more beneifical for the development team
+Although I do enjoy the idea of setting time boxes on tasks, I = believe that it would be beneficial if these time estimates were also flexible (ie. could be extended if needed, rather than just stopping development). I think that having fixed deadlines aren't necessary the best, because sometimes our estimates could be wrong even with proper risk assessment and exploring all rabbit holes. Often times in project planning there may be some difficulties/ surprises that come up causing development to be slightly delayed, that were unexplected and not known by the team. I think if the time esimate was flexible it would be able to improve development process.
 
 ---
 
