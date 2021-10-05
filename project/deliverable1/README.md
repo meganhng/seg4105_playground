@@ -60,6 +60,9 @@ Some questions that might arise during implementation that can be answered are:
   - Renter: I think the renter's requests should be ordered by date of the rental requests, putting most recent requests at the top.
   - Landlord: The requests should be grouped by listings and they should be ordered by date, with the most recent at the top of the group
 
+- What happens if a renter's rental request is accepted, but they have other existing pending requests?
+  - The renter should manually cancel their pending requests that conflict with their current accepted rental request. 
+
 - What happens if a landlord tries to accept a cancelled listing (Cancelled before dashboard could update)?
 
   - An error message should appear on the landlord's side indicating that request is no longer available
