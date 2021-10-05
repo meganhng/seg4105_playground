@@ -43,7 +43,7 @@ If the landlord clicks **accept** or **reject**, it should display a validation 
 
 Once the confirmation is accepted, the action of the landlord are reflected on both the landlord's and renter's dashboard. If the landlord accepted a renter for a specific listing, it should reject any open rental requests for that listing.
 
-Renters should be able to view and manage all of their rental requests. This page should show their rental request status and allow the user to cancel their request if it's no longer valid. If the rental request is cancelled, this should also be reflected on the landlord’s rental request page.
+Renters should be able to view and manage all of their rental requests through a dashboard. This page should show the status of each rental request and allow the user to cancel their request if they're no longer interested. If the rental request is cancelled, this should also be reflected on the landlord’s rental request page.
 
 ![Alt text](image/rental-request-renter.jpg "Renter Request Dashboard")
 
@@ -51,7 +51,7 @@ Renters should be able to view and manage all of their rental requests. This pag
 
 ## Rabbit Holes
 
-This implementation seems to be the best for this problem, as it requires minimal UI changes to the existing web pages. Also, majority of the user flow remains the same, and the flow that is added when making a request is straight forward, allowing for minimal confusion and difficulty by new users.
+This implementation seems to be the best for this problem, as it requires minimal UI changes to the existing web pages. Also, majority of the user flow remains the same, and the new renter request flow is straight forward, minimizing confusion for new users.
 
 Some questions that might arise during implementation that can be answered are:
 
@@ -69,4 +69,5 @@ Some questions that might arise during implementation that can be answered are:
 ## No Gos
 
 - Once a landlord accepts or rejects (and confirms) a rental request, they cannot undo their action
-- once a renter has cancelled their rental request, they cannot undo that action
+- Once a renter has cancelled their rental request, they cannot undo that action
+- A renter cannnot cancel their rental request after it has been accepted
