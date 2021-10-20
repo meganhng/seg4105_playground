@@ -12,8 +12,8 @@ Megan Hong 300012546
 
 ## Lab Activity
 
-Hill charts are of the winning pitch, in-app chat messaging feature.
-The scope focused on is, Implementing Chat Page UI
+Hill charts are of the winning pitch from our betting table in lab 5, in-app chat messaging feature.
+The scope focused on for this hill chart is, Implementing Chat Page UI
 
 ### Original
 
