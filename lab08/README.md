@@ -14,7 +14,7 @@ Megan Hong 300012546
 
 ### Gantt Chart and Schedule (Task 1)
 
-![Alt text](img/figure_b.png "Figure B")
+![Alt text](img/figure_b.PNG "Figure B")
 
 The cost of the phase is shown in the figure below:
 ![Alt text](img/cost.png "Phase 1 Cost")
