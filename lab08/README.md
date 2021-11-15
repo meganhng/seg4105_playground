@@ -18,6 +18,7 @@ Megan Hong 300012546
 
 The cost of the phase is shown in the figure below:
 ![Alt text](img/cost.png "Phase 1 Cost")
+
 The estimated total cost of Phase 1 is $13,045.79
 
 ### Gantt Chart and Schedule (Task 2)
